@@ -73,6 +73,13 @@ If you think any of the roadmaps can be improved, feel free to discuss it in the
 - Spread the word
 - Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
  
+ ## 📚📖 My Study Plan
+ > _"A goal without a plan is just a wish." - Antoine de Saint-Exupéry_
+
+Inspired by [EVGomes](https://github.com/evgomes/developer-roadmap#-personal-study-plan), I created my own study plan based on this Web Developer Roadmap for 2020.
+
+See details [here.](https://github.com/carlpardales/developer-roadmap/wiki/My-Study-Plan
+ 
 ## License
 
 Have a look at the [license file](./LICENSE) for details
